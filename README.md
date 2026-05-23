@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to My Coding Universe!
+# 👨‍💻 Welcome
 
 Hello! ✨ I'm Brenno, a developer from Brazil passionate about programming and technology.
 
@@ -8,7 +8,7 @@ Hello! ✨ I'm Brenno, a developer from Brazil passionate about programming and 
 
 - 🎮 Developing games
 - 💻 Studying software development
-- 📚 Learning C, Python, JavaScript and Arduino
+- 📚 Learning C#, C++, Python, JavaScript and Arduino
 - 🧠 Interested in logic, mathematics and low-level computing
 
 ---

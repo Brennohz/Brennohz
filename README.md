@@ -21,7 +21,7 @@ Hello! ✨ I'm Brenno, a developer from Brazil passionate about programming and 
 # 🛠 Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino" />
 </p>
 
 ---

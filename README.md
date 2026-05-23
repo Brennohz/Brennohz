@@ -1,32 +1,73 @@
-# 👨‍💻 Welcome
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Software+Developer;Game+Developer;Always+Learning+New+Things" />
+</p>
 
-Hello! ✨ I'm Brenno, a developer from Brazil passionate about programming and technology.
+<h1 align="center">👋 Welcome to My Profile</h1>
 
----
-
-## 🚀 About Me
-
-- 🎮 Developing games
-- 💻 Studying software development
-- 📚 Learning C#, C++, Python, JavaScript and Arduino
-- 🧠 Interested in logic, mathematics and low-level computing
-
----
-
-## 🛠 Languages & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brennohz&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+Hello! ✨ I'm Brenno, a developer from Brazil passionate about programming and technology.
+
+- 🎮 Developing games
+- 💻 Studying software development
+- 📚 Learning C, C++, Python, JavaScript and Arduino
+- 🧠 Interested in logic, mathematics and low-level computing
+- ⚡ Always learning new technologies
 
 ---
 
-## 🔥 Most Used Languages
+# 🛠 Languages & Technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino,vscode,git,github" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brennohz&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brennohz&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Brennohz&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- Backend Development
+- Game Development
+- Algorithms & Logic
+- Computer Science
+- Software Engineering
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Brennohz">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 “Code is where logic meets creativity.”
+</p>

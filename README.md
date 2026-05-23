@@ -40,34 +40,6 @@ Hello! ✨ I'm Brenno, a developer from Brazil passionate about programming and 
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Brennohz&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
-# 🎯 Current Focus
-
-- Backend Development
-- Game Development
-- Algorithms & Logic
-- Computer Science
-- Software Engineering
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Brennohz">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
 <p align="center">
   💻 “Code is where logic meets creativity.”
 </p>

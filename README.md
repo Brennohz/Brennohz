@@ -4,6 +4,7 @@
 
 <h1 align="center">👋 Welcome to My Profile</h1>
 
+
 ---
 
 # 🚀 About Me
@@ -24,15 +25,6 @@ Hello! ✨ I'm Brenno, a developer from Brazil passionate about programming and 
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brennohz&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brennohz&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 

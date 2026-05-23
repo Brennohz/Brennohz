@@ -4,10 +4,6 @@
 
 <h1 align="center">👋 Welcome to My Profile</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brennohz&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
 ---
 
 # 🚀 About Me

@@ -7,7 +7,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 Hello! I'm Brenno, a developer from Brazil passionate about programming and technology.
 

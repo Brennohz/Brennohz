@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Software+Developer;Game+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Software+Developer;Game+Developer;Back-end" />
 </p>
 
 <h1 align="center"> Welcome to My Profile</h1>

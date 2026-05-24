@@ -9,7 +9,7 @@
 
 # About Me
 
-Hello! I'm Brenno, a developer from Brazil passionate about programming and technology.
+Hello! I'm Brenno, a Brazilian developer focused on learning, building projects, and exploring new technologies.
 
 - Developing games
 - Studying software development

@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Software+Developer;Game+Developer;Back-end" />
 </p>
 
-<h1 align="center"> Welcome to My Profile</h1>
+<h2 align="center"> Welcome to My Profile</h2>
 
 
 ---
 
 # About Me
 
-Hello! I'm Brenno, a Brazilian developer focused on learning, building projects, and exploring new technologies.
+<h2> Hello! I'm Brenno, a Brazilian developer focused on learning, building projects, and exploring new technologies. </h2>
 
 - Developing games
 - Studying software development
@@ -19,7 +19,7 @@ Hello! I'm Brenno, a Brazilian developer focused on learning, building projects,
 
 ---
 
-# Languages & Technologies
+# <h2> Languages & Technologies </h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,js,html,css,arduino" />

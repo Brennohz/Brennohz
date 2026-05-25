@@ -13,7 +13,7 @@ Hello! I'm Brenno, a Brazilian developer focused on learning, building projects,
 
 - Developing games
 - Studying software development
-- Learning C, C++, Python, JavaScript and Arduino
+- Learning C, C#, C++, Python, JavaScript and Arduino
 - Interested in logic, mathematics and low-level computing
 - Always learning new technologies
 

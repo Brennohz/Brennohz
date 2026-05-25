@@ -9,7 +9,7 @@
 
 # About Me
 
-<h2> Hello! I'm Brenno, a Brazilian developer focused on learning, building projects, and exploring new technologies. </h2>
+ Hello! I'm Brenno, a Brazilian developer focused on learning, building projects, and exploring new technologies.
 
 - Developing games
 - Studying software development
@@ -19,7 +19,7 @@
 
 ---
 
-# <h2> Languages & Technologies </h2>
+# Languages & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,js,html,css,arduino" />

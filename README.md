@@ -22,7 +22,7 @@ Hello! I'm Brenno, a Brazilian developer focused on learning, building projects,
 # Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,js,html,css,arduino" />
 </p>
 
 

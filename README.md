@@ -22,7 +22,7 @@
 # <h2> Languages & Technologies </h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,arduino" />
 </p>
 
 

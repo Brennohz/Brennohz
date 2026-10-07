@@ -13,7 +13,7 @@
 
 - Developing games
 - Studying software development
-- Learning C, C#, C++, Python, JavaScript and Arduino
+- Learning Java, C, C++, Python, JavaScript and Arduino
 - Interested in logic, mathematics and low-level computing
 - Always learning new technologies
 
@@ -22,7 +22,7 @@
 # <h2> Languages & Technologies </h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,js,html,css,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,arduino" />
 </p>
 
 

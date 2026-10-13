@@ -11,8 +11,8 @@
 
  Hello! I'm Brenno, a Brazilian developer focused on learning, building projects, and exploring new technologies.
 
-- Developing games
-- Studying software development
+- Pursuing a Bachelor's degree in Computer Science
+- Exploring back-end development and software engineering
 - Learning Java, C, C++, Python, JavaScript and Arduino
 - Interested in logic, mathematics and low-level computing
 - Always learning new technologies
